@@ -51,92 +51,92 @@
   - [ ] [Codeforces 1137C - Museums Tour](https://codeforces.com/contest/1137/problem/C) 
 
   Luồng cực đại, lát cắt cực tiểu, luồng hai cận
-  - [VNOJ NKFLOW - Luồng cực đại trên mạng](https://oj.vnoi.info/problem/nkflow)
-  - [LQDOJ MAFIACWD](https://lqdoj.edu.vn/problem/mafiacwd)
-  - [VNOJ JOBSET - VOI 14 Bài 6: Chọn Công Việc](https://oj.vnoi.info/problem/jobset)
-  - [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
-  - [LQDOJ FILLB - Điền số cùng Ngọc](https://lqdoj.edu.vn/problem/fillb)
-  - [LQDOJ STARCWD](https://lqdoj.edu.vn/problem/starcwd)
+  - [ ] [VNOJ NKFLOW - Luồng cực đại trên mạng](https://oj.vnoi.info/problem/nkflow)
+  - [ ] [LQDOJ MAFIACWD](https://lqdoj.edu.vn/problem/mafiacwd)
+  - [ ] [VNOJ JOBSET - VOI 14 Bài 6: Chọn Công Việc](https://oj.vnoi.info/problem/jobset)
+  - [ ] [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
+  - [ ] [LQDOJ FILLB - Điền số cùng Ngọc](https://lqdoj.edu.vn/problem/fillb)
+  - [ ] [LQDOJ STARCWD](https://lqdoj.edu.vn/problem/starcwd)
 
   Bài tập ôn tập các dạng đã học:
   
     - DFS & BFS:
-      - [VNOJ VMUNCH - Gặm cỏ](https://oj.vnoi.info/problem/vmunch) 
-      - [VNOJ QBBISHOP - VOI 06 Bài 2: Quân tượng](https://oj.vnoi.info/problem/qbbishop)
-      - [Codeforces 1037D - Valid BFS?](https://codeforces.com/contest/1037/problem/D)
-      - [VNOJ NKTRIO - Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
-      - [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
-      - [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk)
-      - [VNOJ ROBOCON - VOI 12 Bài 5: Robocon](https://oj.vnoi.info/problem/robocon)
-      - [VNOJ VOSNET - Social Network](https://oj.vnoi.info/problem/vosnet)
+      - [ ] [VNOJ VMUNCH - Gặm cỏ](https://oj.vnoi.info/problem/vmunch) 
+      - [ ] [VNOJ QBBISHOP - VOI 06 Bài 2: Quân tượng](https://oj.vnoi.info/problem/qbbishop)
+      - [ ] [Codeforces 1037D - Valid BFS?](https://codeforces.com/contest/1037/problem/D)
+      - [ ] [VNOJ NKTRIO - Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
+      - [ ] [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
+      - [ ] [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk)
+      - [ ] [VNOJ ROBOCON - VOI 12 Bài 5: Robocon](https://oj.vnoi.info/problem/robocon)
+      - [ ] [VNOJ VOSNET - Social Network](https://oj.vnoi.info/problem/vosnet)
 
     - Đường đi ngắn nhất:
-      - [VNOJ PWRFAIL - Mất điện](https://oj.vnoi.info/problem/pwrfail)
-      - [VNOJ CENTRE28 - CENTRE](https://oj.vnoi.info/problem/centre28)
-      - [VNOJ NETACCEL - Tăng tốc mạng máy tính](https://oj.vnoi.info/problem/netaccel)
-      - [VNOJ V8SORT - Sắp xếp](https://oj.vnoi.info/problem/v8sort)
+      - [ ] [VNOJ PWRFAIL - Mất điện](https://oj.vnoi.info/problem/pwrfail)
+      - [ ] [VNOJ CENTRE28 - CENTRE](https://oj.vnoi.info/problem/centre28)
+      - [ ] [VNOJ NETACCEL - Tăng tốc mạng máy tính](https://oj.vnoi.info/problem/netaccel)
+      - [ ] [VNOJ V8SORT - Sắp xếp](https://oj.vnoi.info/problem/v8sort)
 
     - Cây khung, DSU:
-      - [VNOJ FWATER - Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)
-      - [VNOJ QHROAD - Phá đường](https://oj.vnoi.info/problem/qhroad)
-      - [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) 
-      - [Codeforces 1213G - Path Queries](https://codeforces.com/contest/1213/problem/G)
-      - [VNOJ VMST - Cây khung](https://oj.vnoi.info/problem/vmst)
+      - [ ] [VNOJ FWATER - Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)
+      - [ ] [VNOJ QHROAD - Phá đường](https://oj.vnoi.info/problem/qhroad)
+      - [ ] [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) 
+      - [ ] [Codeforces 1213G - Path Queries](https://codeforces.com/contest/1213/problem/G)
+      - [ ] [VNOJ VMST - Cây khung](https://oj.vnoi.info/problem/vmst)
 
     - Luồng cực đại:
-      - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
-      - [VNOJ HIWAY - Hai đường đi](https://oj.vnoi.info/problem/hiway)
+      - [ ] [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
+      - [ ] [VNOJ HIWAY - Hai đường đi](https://oj.vnoi.info/problem/hiway)
 
 - **Tuần 03: Đệ quy (recursion)**
 
   Duyệt tập con, duyệt phân tập
-  - [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
-  - [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
-  - [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
-  - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
+  - [ ] [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
+  - [ ] [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
+  - [ ] [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
+  - [ ] [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
 
 - **Tuần 04: Đệ quy (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
-  - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
-  - [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
+  - [ ] [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
+  - [ ] [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
 
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
-  - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
+  - [ ] [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
 
 - **Tuần 05: Duyệt, chia để trị (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
-  - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
-  - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
-  - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
+  - [ ] [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
+  - [ ] [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
+  - [ ] [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
   Chặt nhị phân, chặt tam phân
-  - [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
-  - [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
-  - [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
-  - [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
-  - [Codeforces Bảo tồn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/A)
-  - [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
+  - [ ] [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
+  - [ ] [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
+  - [ ] [LQDOJ BUYCARD - Mua bài](https://lqdoj.edu.vn/problem/buycard)
+  - [ ] [LQDOJ CJ di chuyển lực lượng](https://lqdoj.edu.vn/problem/cjdichuyenlucluong)
+  - [ ] [Codeforces Bảo tồn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/A)
+  - [ ] [LQDOJ MESSAGESCWD](https://lqdoj.edu.vn/problem/messagescwd)
 
   Chặt nhị phân, chặt tam phân (tiếp theo)
-  - [Codeforces Trồng cây](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/C)
-  - [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
-  - [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
-  - [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
-  - [VNOJ Cắt hình](https://oj.vnoi.info/problem/mincut)
+  - [ ] [Codeforces Trồng cây](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/C)
+  - [ ] [VNOJ MPART - Chia nhóm](https://oj.vnoi.info/problem/mpart)
+  - [ ] [LQDOJ Chắc kèo](https://lqdoj.edu.vn/problem/surebet)
+  - [ ] [Codeforces Nghèo nàn](https://codeforces.com/group/G0iFI97YZN/contest/333824/problem/B)
+  - [ ] [VNOJ Cắt hình](https://oj.vnoi.info/problem/mincut)
 
 - **Tuần 05: Cấu trúc dữ liệu (data structures)**
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
-  - [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
-  - [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
-  - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
-  - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
-  - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
-  - [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
-  - [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
-  - [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
+  - [ ] [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
+  - [ ] [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [ ] [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
+  - [ ] [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [ ] [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
+  - [ ] [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
+  - [ ] [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
+  - [ ] [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
-  - [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
+  - [ ] [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
   - [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
   - [Codeforces Dễ ghét](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/F)
 
