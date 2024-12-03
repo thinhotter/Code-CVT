@@ -157,8 +157,8 @@
 - **Tuần 07: Cấu trúc dữ liệu (data structures), quy hoạch động (DP)**
 
   Fenwick tree
-  - [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
-  - [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
+  - [x] [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
+  - [x] [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
   - [Codeforces Netflix](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/A)
 
   Fenwick tree, quy hoạch động
