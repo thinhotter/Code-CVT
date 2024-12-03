@@ -66,7 +66,7 @@
       - [Codeforces 1037D - Valid BFS?](https://codeforces.com/contest/1037/problem/D)
       - [VNOJ NKTRIO - Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
       - [VNOJ NKGUARD - Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
-      - [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk) (dành cho các em chưa train vào tháng 4)
+      - [VNOJ MTWALK - Mountain Walking](https://oj.vnoi.info/problem/mtwalk)
       - [VNOJ ROBOCON - VOI 12 Bài 5: Robocon](https://oj.vnoi.info/problem/robocon)
       - [VNOJ VOSNET - Social Network](https://oj.vnoi.info/problem/vosnet)
 
@@ -79,7 +79,7 @@
     - Cây khung, DSU:
       - [VNOJ FWATER - Tưới nước đồng cỏ](https://oj.vnoi.info/problem/fwater)
       - [VNOJ QHROAD - Phá đường](https://oj.vnoi.info/problem/qhroad)
-      - [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) (dành cho các em chưa train vào tháng 4)
+      - [VNOJ YUGI](https://oj.vnoi.info/problem/yugi) 
       - [Codeforces 1213G - Path Queries](https://codeforces.com/contest/1213/problem/G)
       - [VNOJ VMST - Cây khung](https://oj.vnoi.info/problem/vmst)
 
@@ -89,9 +89,6 @@
 
 - **Tuần 03: Đệ quy (recursion)**
 
-  Thi thử HSG tỉnh Quảng Nam lần 01
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc01)
-
   Duyệt tập con, duyệt phân tập
   - [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
   - [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
@@ -99,10 +96,6 @@
   - [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
 
 - **Tuần 04: Đệ quy (recursion)**
-
-  Thi thử HSG tỉnh Quảng Nam lần 02
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc02)
-
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
   - [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
@@ -111,15 +104,10 @@
   - [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
 
 - **Tuần 05: Duyệt, chia để trị (recursion)**
-  
-  Thi thử HSG tỉnh Quảng Nam lần 03
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc03)
-
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [VNOJ VECTOR - Tổng vector](https://oj.vnoi.info/problem/vector)
   - [Codeforces Vượt ải](https://codeforces.com/group/G0iFI97YZN/contest/333147/problem/A)
   - [VNOJ DTTUI1 - Cái túi 1](https://oj.vnoi.info/problem/dttui1)
-
   Chặt nhị phân, chặt tam phân
   - [LQDOJ CSP - Tập xe](https://lqdoj.edu.vn/problem/csp)
   - [LQDOJ Bộ số tam giác](https://lqdoj.edu.vn/problem/1819bosotg)
@@ -136,9 +124,6 @@
   - [VNOJ Cắt hình](https://oj.vnoi.info/problem/mincut)
 
 - **Tuần 05: Cấu trúc dữ liệu (data structures)**
-
-  Thi thử HSG tỉnh lần 04
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc04)
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
@@ -162,9 +147,6 @@
 
 - **Tuần 06: Cấu trúc dữ liệu (data structures)**
 
-  Thi thử HSG tỉnh lần 05
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc05)
-
   Bài tập ôn CTDL:
   - [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
   - [VNOJ Chiến trường Ô qua](https://oj.vnoi.info/problem/kagain)
@@ -173,9 +155,6 @@
   - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
 
 - **Tuần 07: Cấu trúc dữ liệu (data structures), quy hoạch động (DP)**
-
-  Thi thử HSG tỉnh lần 06
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc06)
 
   Fenwick tree
   - [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
@@ -193,9 +172,6 @@
   - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
 
 - **Tuần 08: Quy hoạch động (DP)**
-
-  Thi thử HSG tỉnh lần 07
-  - [Link nộp bài](https://lqdoj.edu.vn/contest/otbc07)
 
   Quy hoạch động bitmask
   - [VNOJ TRIP](https://oj.vnoi.info/problem/lem3)
