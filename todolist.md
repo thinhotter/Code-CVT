@@ -137,89 +137,89 @@
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [ ] [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
-  - [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
-  - [Codeforces Dễ ghét](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/F)
+  - [ ] [Codeforces Dễ thương](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/E)
+  - [ ] [Codeforces Dễ ghét](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/F)
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
-  - [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
-  - [Codeforces Dễ dãi](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/G)
-  - [Codeforces Dễ sợ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/H)
+  - [ ] [LQDOJ Giá trị nhỏ nhất](https://lqdoj.edu.vn/problem/minimum)
+  - [ ] [Codeforces Dễ dãi](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/G)
+  - [ ] [Codeforces Dễ sợ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/H)
 
 - **Tuần 06: Cấu trúc dữ liệu (data structures)**
 
   Bài tập ôn CTDL:
-  - [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
-  - [VNOJ Chiến trường Ô qua](https://oj.vnoi.info/problem/kagain)
-  - [VNOJ Bán dừa](https://oj.vnoi.info/problem/kplank)
-  - [VNOJ Đếm cặp](https://oj.vnoi.info/problem/c11pairs)
-  - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
+  - [ ] [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
+  - [ ] [VNOJ Chiến trường Ô qua](https://oj.vnoi.info/problem/kagain)
+  - [ ] [VNOJ Bán dừa](https://oj.vnoi.info/problem/kplank)
+  - [ ] [VNOJ Đếm cặp](https://oj.vnoi.info/problem/c11pairs)
+  - [ ] [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
 
 - **Tuần 07: Cấu trúc dữ liệu (data structures), quy hoạch động (DP)**
 
   Fenwick tree
   - [x] [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
   - [x] [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
-  - [Codeforces Netflix](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/A)
+  - [ ] [Codeforces Netflix](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/A)
 
   Fenwick tree, quy hoạch động
-  - [Codeforces Dãy con tăng](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/C)
-  - [VNOJ Chữ M](https://oj.vnoi.info/problem/pvoi14_4)
-  - [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
+  - [ ] [Codeforces Dãy con tăng](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/C)
+  - [ ] [VNOJ Chữ M](https://oj.vnoi.info/problem/pvoi14_4)
+  - [ ] [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
 
   Fenwick tree, quy hoạch động
-  - [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
-  - [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
-  - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
+  - [ ] [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
+  - [ ] [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
+  - [ ] [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
 
 - **Tuần 08: Quy hoạch động (DP)**
 
   Quy hoạch động bitmask
-  - [VNOJ TRIP](https://oj.vnoi.info/problem/lem3)
-  - [Codeforces Xáo trộn hàng](https://codeforces.com/group/G0iFI97YZN/contest/337630)
-  - [VNOJ CPU](https://oj.vnoi.info/problem/predhbb21_cpu)
+  - [ ] [VNOJ TRIP](https://oj.vnoi.info/problem/lem3)
+  - [ ] [Codeforces Xáo trộn hàng](https://codeforces.com/group/G0iFI97YZN/contest/337630)
+  - [ ] [VNOJ CPU](https://oj.vnoi.info/problem/predhbb21_cpu)
   
 - **Các bài tập trong giai đoạn train online có thể tìm ở [group Codeforces](https://codeforces.com/group/G0iFI97YZN/contests).**
 
 - **Băm (hashing)**
-  - [VNOJ Xâu con](https://oj.vnoi.info/problem/substr)
-  - [LQDOJ Xâu con lặp](https://lqdoj.edu.vn/problem/pun)
-  - [LQDOJ Chu kỳ](https://lqdoj.edu.vn/problem/period)
-  - [VNOJ Palindrome dài nhất](https://oj.vnoi.info/problem/paliny)
-  - [LQDOJ Biến đổi hai xâu](https://lqdoj.edu.vn/problem/twostr)
-  - [VNOJ Kiểm tra siêu máy tính](https://oj.vnoi.info/problem/tnhtest)
-  - [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
-  - [LQDOJ Số Catalan](https://lqdoj.edu.vn/problem/catalan)
-  - [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
+  - [ ] [VNOJ Xâu con](https://oj.vnoi.info/problem/substr)
+  - [ ] [LQDOJ Xâu con lặp](https://lqdoj.edu.vn/problem/pun)
+  - [ ] [LQDOJ Chu kỳ](https://lqdoj.edu.vn/problem/period)
+  - [ ] [VNOJ Palindrome dài nhất](https://oj.vnoi.info/problem/paliny)
+  - [ ] [LQDOJ Biến đổi hai xâu](https://lqdoj.edu.vn/problem/twostr)
+  - [ ] [VNOJ Kiểm tra siêu máy tính](https://oj.vnoi.info/problem/tnhtest)
+  - [ ] [VNOJ Tính toán số lớn](https://oj.vnoi.info/problem/vobignum)
+  - [ ] [LQDOJ Số Catalan](https://lqdoj.edu.vn/problem/catalan)
+  - [ ] [LQDOJ Lật xu](https://lqdoj.edu.vn/problem/coinflip)
 
 - **Một số dạng QHĐ (DP)**
-  - [LQDOJ Xâu thứ k](https://lqdoj.edu.vn/problem/kthstr)
-  - [VNOJ Chất lượng dịch vụ](https://oj.vnoi.info/problem/qos)
-  - [VNOJ String Reconstruction](https://oj.vnoi.info/problem/c11sstr)
-  - [Baekjoon 피보나치 수 6](https://www.acmicpc.net/problem/11444) (Tính số Fibonacci thứ n mod 1e9 + 7)
-  - [VNOJ Trò chơi lò cò](https://oj.vnoi.info/problem/dhloco)
-  - [VNOJ Tribonacci](https://oj.vnoi.info/problem/vostribo)
-  - [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
-  - [VNOJ Những viên bi ma thuật](https://oj.vnoi.info/problem/vomarble)
-  - [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
-  - [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
-  - [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
-  - [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
-  - [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
+  - [ ] [LQDOJ Xâu thứ k](https://lqdoj.edu.vn/problem/kthstr)
+  - [ ] [VNOJ Chất lượng dịch vụ](https://oj.vnoi.info/problem/qos)
+  - [ ] [VNOJ String Reconstruction](https://oj.vnoi.info/problem/c11sstr)
+  - [ ] [Baekjoon 피보나치 수 6](https://www.acmicpc.net/problem/11444) (Tính số Fibonacci thứ n mod 1e9 + 7)
+  - [ ] [VNOJ Trò chơi lò cò](https://oj.vnoi.info/problem/dhloco)
+  - [ ] [VNOJ Tribonacci](https://oj.vnoi.info/problem/vostribo)
+  - [ ] [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
+  - [ ] [VNOJ Những viên bi ma thuật](https://oj.vnoi.info/problem/vomarble)
+  - [ ] [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
+  - [ ] [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
+  - [ ] [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
+  - [ ] [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
+  - [ ] [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
 
 - **LCA**
-  - [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
-  - [VNOJ Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)
-  - [VNOJ Kết nối chơi game](https://oj.vnoi.info/problem/vosplay)
-  - [LQDOJ Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)
-  - [LQDOJ Đường một chiều](https://lqdoj.edu.vn/problem/oneway)
+  - [ ] [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
+  - [ ] [VNOJ Nâng cấp mạng](https://oj.vnoi.info/problem/upgranet)
+  - [ ] [VNOJ Kết nối chơi game](https://oj.vnoi.info/problem/vosplay)
+  - [ ] [LQDOJ Cây Nhi](https://lqdoj.edu.vn/problem/tkpc07tree)
+  - [ ] [LQDOJ Đường một chiều](https://lqdoj.edu.vn/problem/oneway)
 
 - **QHĐ chữ số**
-  - [LQDCoder PEARL - Số đặc biệt](http://lequydon.ntucoder.net/Problem/Details/4646)
-  - [LQDBD Số bất thường](https://lequydonbd.net/problem/sobatthuong)
-  - [VNOJ LUCKY13](https://oj.vnoi.info/problem/lucky13)
-  - [Codeforces Tích đặc biệt](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/B)
-  - [Codeforces Số kỳ diệu](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/A)
+  - [ ] [LQDCoder PEARL - Số đặc biệt](http://lequydon.ntucoder.net/Problem/Details/4646)
+  - [ ] [LQDBD Số bất thường](https://lequydonbd.net/problem/sobatthuong)
+  - [ ] [VNOJ LUCKY13](https://oj.vnoi.info/problem/lucky13)
+  - [ ] [Codeforces Tích đặc biệt](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/B)
+  - [ ] [Codeforces Số kỳ diệu](https://codeforces.com/group/G0iFI97YZN/contest/348200/problem/A)
 
 - **QHĐ chữ số**
-  - [Codeforces dãy con chung may mắn](https://codeforces.com/group/G0iFI97YZN/contest/348875/problem/A)
-  - [LQDOJ Xâu LPD](https://lqdoj.edu.vn/problem/lpdstr)
+  - [ ] [Codeforces dãy con chung may mắn](https://codeforces.com/group/G0iFI97YZN/contest/348875/problem/A)
+  - [ ] [LQDOJ Xâu LPD](https://lqdoj.edu.vn/problem/lpdstr)
