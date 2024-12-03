@@ -42,7 +42,7 @@
 - **Tuần 02: Lý thuyết đồ thị**
 
   Tarjan & bài toán 2-SAT
-  - [] [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
+  - [x] [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
   - [] [VNOI MESSAGE - Truyền tin](https://oj.vnoi.info/problem/message)
   - [] [Codeforces 427C - Checkposts](https://codeforces.com/contest/427/problem/C) 
   - [] [VNOJ TWOSAT - Du lịch](https://oj.vnoi.info/problem/twosat)
