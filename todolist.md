@@ -98,10 +98,10 @@
 - **Tuần 04: Đệ quy (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [ ] [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
-  - [ ] [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
+  - [x] [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
 
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
-  - [ ] [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
+  - [x] [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
 
 - **Tuần 05: Duyệt, chia để trị (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
