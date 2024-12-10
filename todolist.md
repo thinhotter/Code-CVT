@@ -126,7 +126,7 @@
 - **Tuần 05: Cấu trúc dữ liệu (data structures)**
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
-  - [ ] [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
+  - [x] [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
   - [ ] [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
   - [ ] [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
   - [ ] [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
