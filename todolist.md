@@ -90,7 +90,7 @@
 - **Tuần 03: Đệ quy (recursion)**
 
   Duyệt tập con, duyệt phân tập
-  - [ ] [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
+  - [x] [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
   - [ ] [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
   - [ ] [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [ ] [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
@@ -167,7 +167,7 @@
   - [ ] [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
 
   Fenwick tree, quy hoạch động
-  - [ ] [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
+  - [x] [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [ ] [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
   - [ ] [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
 
