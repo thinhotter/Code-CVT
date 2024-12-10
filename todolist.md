@@ -203,8 +203,8 @@
   - [ ] [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
   - [ ] [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
   - [ ] [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
-  - [ ] [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
-  - [ ] [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
+  - [x] [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
+  - [x] [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
 
 - **LCA**
   - [ ] [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
