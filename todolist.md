@@ -133,7 +133,7 @@
   - [ ] [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
   - [ ] [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
   - [ ] [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
-  - [ ] [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
+  - [x] [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [ ] [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
