@@ -12,7 +12,7 @@
 - **Tuần 01: Lý thuyết đồ thị** 
 
   Kruskal - cây khung nhỏ nhất:
-  - [x] [VNOJ QBMST - Cây khung nhỏ nhất](https://oj.vnoi.info/problem/qbmst)
+  - [ ] [VNOJ QBMST - Cây khung nhỏ nhất](https://oj.vnoi.info/problem/qbmst)
   - [ ] [VNOJ AZNET - VOI 14 bài 3: Mạng truyền thông](https://oj.vnoi.info/problem/aznet)
   - [ ] [LQDOJ GSTREE](https://lqdoj.edu.vn/problem/gstreecwd)
   
@@ -31,7 +31,7 @@
   - [ ] [LQDOJ ROBOT - Trò chơi với robot](https://lqdoj.edu.vn/problem/robot)
   
   Tarjan
-  - [x] [VNOJ GRAPH_ - Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)
+  - [ ] [VNOJ GRAPH_ - Tìm khớp và cầu (Cơ bản)](https://oj.vnoi.info/problem/graph_)
   - [ ] [VNOJ REFORM - VOI 15 Bài 3: Kế hoạch cải tổ](https://oj.vnoi.info/problem/reform)
   - [ ] [VNOJ SAFENET2 - Mạng máy tính an toàn](https://oj.vnoi.info/problem/safenet2)
   - [ ] [VNOJ NKPOLICE - Police](https://oj.vnoi.info/problem/nkpolice) (Yêu cầu kiến thức về LCA)
@@ -42,7 +42,7 @@
 - **Tuần 02: Lý thuyết đồ thị**
 
   Tarjan & bài toán 2-SAT
-  - [x] [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
+  - [ ] [VNOI TJALG - Tìm TPLT mạnh](https://oj.vnoi.info/problem/tjalg)
   - [ ] [VNOI MESSAGE - Truyền tin](https://oj.vnoi.info/problem/message)
   - [ ] [Codeforces 427C - Checkposts](https://codeforces.com/contest/427/problem/C) 
   - [ ] [VNOJ TWOSAT - Du lịch](https://oj.vnoi.info/problem/twosat)
@@ -90,7 +90,7 @@
 - **Tuần 03: Đệ quy (recursion)**
 
   Duyệt tập con, duyệt phân tập
-  - [x] [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
+  - [ ] [LQDOJ BONUS2021 - Tặng quà](https://lqdoj.edu.vn/problem/bonus2021) (subtask 1)
   - [ ] [Codeforces 202A - LLPS](http://codeforces.com/contest/202/problem/A)
   - [ ] [Codeforces 550B - Preparing Olympiad](http://codeforces.com/contest/550/problem/B)
   - [ ] [Codeforces 47D - Safe](http://codeforces.com/contest/47/problem/D)
@@ -98,10 +98,10 @@
 - **Tuần 04: Đệ quy (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
   - [ ] [Codeforces 36B - Fractal](http://codeforces.com/contest/36/problem/B)
-  - [x] [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
+  - [ ] [LQDOJ RESCUETH - Giải cứu](https://lqdoj.edu.vn/problem/rescueth)
 
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
-  - [x] [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
+  - [ ] [LQDOJ PGIFTCWD - Xếp quà](https://lqdoj.edu.vn/problem/pgiftcwd)
 
 - **Tuần 05: Duyệt, chia để trị (recursion)**
   Đệ quy, quay lui, duyệt phân tập (tiếp theo):
@@ -126,14 +126,14 @@
 - **Tuần 05: Cấu trúc dữ liệu (data structures)**
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
-  - [x] [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
-  - [x] [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
-  - [x] [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
-  - [x] [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [ ] [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/A)
+  - [ ] [Hackerrank Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+  - [ ] [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/C)
+  - [ ] [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
   - [ ] [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/334434/problem/D)
   - [ ] [LQDCoder Định và Ami (bản dễ)](http://lequydon.ntucoder.net/Problem/Details/6362)
   - [ ] [LQDCoder Định và Ami (bản khó)](http://lequydon.ntucoder.net/Problem/Details/6355)
-  - [x] [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
+  - [ ] [LQDOJ EOECWD](https://lqdoj.edu.vn/problem/eoecwd)
 
   Ngăn xếp (stack), deque, danh sách liên kết (linked list)
   - [ ] [VNOJ QBRECT - Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
@@ -157,8 +157,8 @@
 - **Tuần 07: Cấu trúc dữ liệu (data structures), quy hoạch động (DP)**
 
   Fenwick tree
-  - [x] [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
-  - [x] [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
+  - [ ] [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
+  - [ ] [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
   - [ ] [Codeforces Netflix](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/A)
 
   Fenwick tree, quy hoạch động
@@ -167,7 +167,7 @@
   - [ ] [IOI 2019 Shoes](https://github.com/thanhluong/ITK19NBK/blob/main/ioi2019shoes_vi.pdf) - Link nộp bài: [Baekjoon](https://www.acmicpc.net/problem/19914)
 
   Fenwick tree, quy hoạch động
-  - [x] [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
+  - [ ] [LQDOJ KTHNUM](https://lqdoj.edu.vn/problem/otbc06p2)
   - [ ] [Codeforces Hình chữ nhật đáng ghét](https://codeforces.com/group/G0iFI97YZN/contest/335446/problem/B)
   - [ ] [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
 
@@ -198,13 +198,13 @@
   - [ ] [Baekjoon 피보나치 수 6](https://www.acmicpc.net/problem/11444) (Tính số Fibonacci thứ n mod 1e9 + 7)
   - [ ] [VNOJ Trò chơi lò cò](https://oj.vnoi.info/problem/dhloco)
   - [ ] [VNOJ Tribonacci](https://oj.vnoi.info/problem/vostribo)
-  - [x] [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
+  - [ ] [VNOJ VOI 17 Bài 2 - Dãy Fibonacci](https://oj.vnoi.info/problem/voi17fibseq)
   - [ ] [VNOJ Những viên bi ma thuật](https://oj.vnoi.info/problem/vomarble)
   - [ ] [VNOJ Tổ chức đối lập](https://oj.vnoi.info/problem/v8org)
   - [ ] [VNOJ Another Tree Problem](https://oj.vnoi.info/problem/mtree)
   - [ ] [LQDOJ Dịch vụ chăm sóc khách hàng](https://lqdoj.edu.vn/problem/service)
-  - [x] [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
-  - [x] [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
+  - [ ] [LQDOJ STREE](https://lqdoj.edu.vn/problem/streecwd)
+  - [ ] [LQDOJ KTREE](https://lqdoj.edu.vn/problem/ktreecwd)
 
 - **LCA**
   - [ ] [VNOJ LUBENICA](https://oj.vnoi.info/problem/lubenica)
