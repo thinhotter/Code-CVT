@@ -12,7 +12,7 @@
 - **Tuần 01: Lý thuyết đồ thị** 
 
   Kruskal - cây khung nhỏ nhất:
-  - [x] [VNOJ QBMST - Cây khung nhỏ nhất](https://oj.vnoi.info/problem/qbmst)
+  - [ ] [VNOJ QBMST - Cây khung nhỏ nhất](https://oj.vnoi.info/problem/qbmst)
   - [ ] [VNOJ AZNET - VOI 14 bài 3: Mạng truyền thông](https://oj.vnoi.info/problem/aznet)
   - [ ] [LQDOJ GSTREE](https://lqdoj.edu.vn/problem/gstreecwd)
   
